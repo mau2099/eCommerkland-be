@@ -29,3 +29,12 @@ npm run start
 1. Ya cuentas con el endpoint para leer todos los Products, es momento de crear un CRUD para un Product individual.
 2. Realizar tests con Mocha a los endpoints, mínimo 1 al endpoint `/api/products/`.
 3. Realizar el deploy de tu aplicación con Now.sh.
+
+### Enviar solución de reto
+Debes de crear un "Fork" de este proyecto, revolver los problemas y crear un Pull Request hacia este repositorio.
+
+### Contribuir
+Si alguien quiere agregar o mejorar algo, lo invito a colaborar directamente en este repositorio: [escuelajs-reto-09](https://github.com/platzi/escuelajs-reto-09/)
+
+### Licencia
+escuelajs-reto-09 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
