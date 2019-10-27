@@ -1,0 +1,18 @@
+{
+  "name": "products-reto09-api",
+  "version": 2,
+  "builds": [{
+    "src": "index.js",
+    "use": "@now/node"
+  }],
+  "routes": [{
+    "src": "/(.*)",
+    "dest": "/index.js"
+  }],
+  "env": {
+    "DB_USER": "@products-db-user",
+    "DB_PASSWORD": "@products-db-password",
+    "DB_HOST": "@products-db-host",
+    "DB_NAME": "@products-db-name"
+  }
+}

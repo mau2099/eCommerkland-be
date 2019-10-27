@@ -19,7 +19,7 @@
   "scripts": {
     "dev": "DEBUG=app:* nodemon src/index.js",
     "start": "NODE_ENV=production node src/index.js",
-    "test": "mocha --recursive src/test/*.js"
+    "test": "mocha --exit"
   },
   "repository": {
     "type": "git",
