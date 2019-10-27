@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const ProductService = require('../services');
+const ProductService = require('../services/index');
 const receipt = '../assets/receipt.pdf';
 
 const platziStore = app => {
