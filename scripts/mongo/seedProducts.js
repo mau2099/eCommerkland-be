@@ -1,4 +1,4 @@
-// DEBUG=app:* node src/scripts/mongo/seedProducts.js
+// DEBUG=app:* node scripts/mongo/seedProducts.js
 
 const chalk = require('chalk');
 const debug = require('debug')('app:scripts:products');

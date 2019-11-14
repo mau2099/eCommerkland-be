@@ -13,6 +13,11 @@
     "DB_USER": "@products-db-user",
     "DB_PASSWORD": "@products-db-password",
     "DB_HOST": "@products-db-host",
-    "DB_NAME": "@products-db-name"
+    "DB_NAME": "@products-db-name",
+    "DEFAULT_ADMIN_PASSWORD": "@products-default_admin_password",
+    "DEFAULT_USER_PASSWORD": "@products-default_user_password",
+    "AUTH_JWT_SECRET": "@products-auth_jwt_secret",
+    "PUBLIC_API_KEY_TOKEN": "@products-public_api_key_token",
+    "ADMIN_API_KEY_TOKEN": "@products-admin_api_key_token"
   }
 }
