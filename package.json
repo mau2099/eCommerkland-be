@@ -7,7 +7,7 @@
     "@hapi/boom": "^8.0.1",
     "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.2",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.3.3",
